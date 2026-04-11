@@ -23,4 +23,16 @@ Thumbs.db
 .env
 
 # VSCode settings
+.vscode/build/
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.pdb
+.vs/
 .vscode/
+CMakeFiles/
+CMakeCache.txt
+node_modules/
+ui/node_modules/
